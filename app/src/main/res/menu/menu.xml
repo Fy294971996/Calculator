@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_one"
+    android:title="标准"/>
+    <item android:id="@+id/menu_two"
+        android:title="转换器"/>
+    <item
+        android:id="@+id/menu_three"
+        android:title="面积"/>
+    <item
+        android:id="@+id/menu_four"
+        android:title="角度"
+        />
+    <item
+        android:id="@+id/menu_five"
+        android:title="速度"
+        />
+    <item
+    android:id="@+id/menu_six"
+    android:title="进制转换"
+    />
+
+
+</menu>

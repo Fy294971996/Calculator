@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_one"
+        android:title="厘米/秒"/>
+    <item android:id="@+id/menu_two"
+        android:title="米/秒"/>
+    <item
+        android:id="@+id/menu_three"
+        android:title="千米/小时"/>
+    <item
+        android:id="@+id/menu_four"
+        android:title="马赫"
+        />
+    <item
+        android:id="@+id/menu_five"
+        android:title="节"
+        />
+
+</menu>
